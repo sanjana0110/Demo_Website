@@ -15,7 +15,7 @@ showonlyimage: false
 # Intro
 Awaiting the start of my second year...
 
-![](Siamese-Cat.jpg)
+![](unnamed.jpg)
 
 
 ```{r setup, include=FALSE}
