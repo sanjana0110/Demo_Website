@@ -27,7 +27,7 @@ library(igraph)
 library(igraphdata)
 ```
 
-```{r, include=FALSE}
+```{r}
 
 data("karate")
 karate
