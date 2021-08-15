@@ -11,7 +11,7 @@ tags:
   - second year
 image: img/portfolio/paper-presentation.jpg
 showonlyimage: false
-summary: My second year blast!
+description: My second year blast!
 ---
 # Intro
 Awaiting the start of my second year...
