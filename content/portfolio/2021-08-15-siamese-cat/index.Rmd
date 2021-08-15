@@ -10,7 +10,7 @@ categories:
 tags:
   - cat
 image: images/Siamese-Cat.jpg
-showonlyimage: false
+showonlyimage: true
   
 ---
 # Intro
