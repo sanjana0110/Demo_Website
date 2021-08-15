@@ -16,6 +16,8 @@ params:
       url: about/
     - name: Get in touch
       url: contact/
+    - name: Blog Posts
+      url: post/
   sidebarAbout:
     - Hi everyone, Thank you so much for taking out time for reading this portfolio. 
 

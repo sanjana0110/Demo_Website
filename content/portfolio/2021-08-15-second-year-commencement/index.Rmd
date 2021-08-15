@@ -1,0 +1,53 @@
+---
+title: Second Year Commencement
+author: Sanjana Gupta
+date: '2021-08-15'
+slug: []
+categories:
+  - R
+  - tidygraph
+  - ggraph
+tags:
+  - second year
+image: img/portfolio/paper-presentation.jpg
+showonlyimage: false
+---
+# Intro
+Awaiting the start of my second year...
+
+![](Siamese-Cat.jpg)
+
+
+```{r setup, include=FALSE}
+
+library(tidyverse)
+library(tidygraph)
+library(ggraph)
+library(igraph)
+library(igraphdata)
+```
+
+```{r}
+
+data("karate")
+karate
+
+karate %>% ggraph(., layout = "graphopt") + 
+  geom_edge_link0(aes(width = weight)) + 
+  geom_node_point(aes(color = color), size = 4)
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
